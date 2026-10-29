@@ -14,15 +14,17 @@ Gosto de transformar o que aprendo em ferramentas que as pessoas possam experime
 
 | Projeto | Uma ideia em prática |
 | :--- | :--- |
-| [Cortech ↗](https://cortech-opal.vercel.app/) | Conectar pacientes, profissionais e a rotina de cuidado. |
+| Cortech | Conectar pacientes, profissionais e a rotina de cuidado. |
 | [FreeSB ↗](https://free-spaceboard.vercel.app/) | Dar espaço às ideias em um canvas colaborativo. |
 | [Betterway ↗](https://betterway-finance.vercel.app/) | Trazer contexto para decisões financeiras. |
-| [Roomi Reservas ↗](https://roomi-reservas.vercel.app/) | Aproximar destinos, hospedagens e reservas. |
-| [Roomi Builder ↗](https://roomi-builder.vercel.app/) | Transformar configurações em um resort 3D. |
+| [Site de reservas ↗](https://roomi-reservas.vercel.app/) | Aproximar destinos, hospedagens e reservas. |
+| [Site Construtor de Hotéis ↗](https://roomi-builder.vercel.app/) | Transformar configurações em um resort 3D. |
 | [Dozão ↗](https://dozao.vercel.app/) | Dominó multiplayer com mesa e peças em 3D. |
 | [Sollie ↗](https://sollie-omega.vercel.app/) | Apoiar planejamento e gestão no campo com IA. |
 
 Na formação acadêmica, também participei do [Card0](https://github.com/Gustavotorrescastro/Card0), um projeto em equipe sobre o impacto ambiental dos pagamentos.
+
+Em 2025, participei do [Gaita Hero](https://sites.google.com/cesar.school/g3-acessibilidade-motora/in%C3%ADcio), um jogo acessível controlado pelo sopro, e do [Echo](https://sites.google.com/cesar.school/projetos2-g15/home), projeto de fidelização para o Jornal do Commercio.
 
 ### Vamos conversar
 
