@@ -2,7 +2,7 @@
 
 Desenvolvimento, inteligência artificial e automação. Entendo problemas. Construo possibilidades.
 
-[![Conheça meu portfólio — Arthur Moury](https://raw.githubusercontent.com/ArthurMoury/Portfolio/main/public/portfolio-preview.png)](https://arthur-moury-portfolio.vercel.app)
+[![Conheça meu portfólio — Arthur Moury](https://raw.githubusercontent.com/ArthurMoury/Portfolio/3d362075ef3661e9f04ffcad457ccf4b0454c332/public/portfolio-preview.png)](https://arthur-moury-portfolio.vercel.app)
 
 **[Explorar meu portfólio ↗](https://arthur-moury-portfolio.vercel.app)** · [Trajetória](https://arthur-moury-portfolio.vercel.app/#trajetoria) · [Certificados](https://arthur-moury-portfolio.vercel.app/#certificados) · [Currículo](https://arthur-moury-portfolio.vercel.app/Arthur-Moury-CV.pdf)
 
